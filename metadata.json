@@ -1,0 +1,6 @@
+{
+  "name": "Thành Tín - LMS",
+  "description": "Hệ thống Giáo án điện tử & LMS kết hợp dành cho giáo viên và học sinh các cấp",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
